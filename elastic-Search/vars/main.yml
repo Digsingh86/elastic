@@ -1,0 +1,12 @@
+---
+# vars file for elastic-Search
+cluster_name: "es_cluster"
+
+# Enter your required version
+
+major_version: "7"
+minor_version: "7.17.0"
+
+#elasticsearch Port
+
+http_port: 9200
